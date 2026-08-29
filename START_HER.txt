@@ -1,0 +1,123 @@
+ROOMPULSE – GITHUB PAGES
+========================
+
+Dette er en ferdig nettside for RoomPulse med:
+
+• forside/markedsføringsside
+• støtteside
+• personvernerklæring
+• side for personvernvalg og sletting
+• norsk bokmål, engelsk og spansk
+• responsivt design for mobil og datamaskin
+• appikon og RoomPulse-design
+• ingen informasjonskapsler, annonser eller analyseverktøy i nettsidekoden
+
+GJØR DETTE FØRST
+----------------
+
+1. Åpne mappen «assets».
+2. Åpne filen «site-config.js» i TextEdit eller en annen teksteditor.
+3. Bytt bare disse tre verdiene:
+
+   developerName: navnet ditt eller firmanavnet
+   supportEmail: e-postadressen brukerne skal kontakte
+   appStoreUrl: lenken til appen når den er publisert
+
+4. Dersom appen ikke er publisert ennå, lar du appStoreUrl stå tom:
+
+   appStoreUrl: "",
+
+5. Lagre filen som ren tekst. Ikke endre filnavnet.
+
+PUBLISER PÅ GITHUB
+------------------
+
+1. Logg inn på github.com.
+2. Trykk «+» øverst til høyre → «New repository».
+3. Skriv repository-navnet:
+
+   roompulse-site
+
+4. Velg «Public».
+5. Trykk «Create repository».
+6. Velg «Add file» → «Upload files».
+7. Åpne denne utpakkede mappen på Mac-en.
+8. Marker og last opp ALT INNHOLD inni mappen:
+
+   index.html
+   support.html
+   privacy.html
+   privacy-choices.html
+   404.html
+   robots.txt
+   .nojekyll
+   assets-mappen
+   en-mappen
+   es-mappen
+
+   Ikke last opp ZIP-filen. Ikke legg alt inni en ekstra mappe i repositoryet.
+
+9. Nederst på GitHub trykker du «Commit changes».
+10. Åpne «Settings» i repositoryet.
+11. Velg «Pages» i menyen til venstre.
+12. Under «Build and deployment» velger du:
+
+    Source: Deploy from a branch
+    Branch: main
+    Folder: / (root)
+
+13. Trykk «Save».
+14. Vent noen minutter og åpne:
+
+    https://lars12345678911.github.io/roompulse-site/
+
+LENKER TIL APP STORE CONNECT
+----------------------------
+
+GitHub-brukeren for dette prosjektet er lars12345678911.
+
+Markedsføringsadresse:
+https://lars12345678911.github.io/roompulse-site/
+
+Støtteadresse – norsk:
+https://lars12345678911.github.io/roompulse-site/support.html
+
+Personvern – norsk:
+https://lars12345678911.github.io/roompulse-site/privacy.html
+
+Personvernvalg – norsk:
+https://lars12345678911.github.io/roompulse-site/privacy-choices.html
+
+English support:
+https://lars12345678911.github.io/roompulse-site/en/support.html
+
+English privacy policy:
+https://lars12345678911.github.io/roompulse-site/en/privacy.html
+
+Soporte en español:
+https://lars12345678911.github.io/roompulse-site/es/support.html
+
+Privacidad en español:
+https://lars12345678911.github.io/roompulse-site/es/privacy.html
+
+KONTROLLER FØR DU BRUKER LENKENE
+--------------------------------
+
+• Det gule oppsettvarselet skal være borte.
+• Navnet ditt/firmanavnet skal vises i personvernerklæringen.
+• E-postknappen på støttesiden skal åpne riktig e-postadresse.
+• Norsk, English og Español skal kunne velges øverst på siden.
+• Alle fire sidene skal åpne uten 404-feil.
+
+NÅR APPEN ER PUBLISERT
+----------------------
+
+1. Kopier den endelige App Store-lenken.
+2. Åpne assets/site-config.js på GitHub.
+3. Trykk blyantikonet for å redigere.
+4. Lim inn lenken mellom anførselstegnene:
+
+   appStoreUrl: "https://apps.apple.com/...",
+
+5. Trykk «Commit changes».
+6. GitHub Pages oppdaterer siden automatisk.
