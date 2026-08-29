@@ -1,0 +1,61 @@
+ROOMPULSE GITHUB PAGES – VALIDATION REPORT
+==========================================
+
+Package: RoomPulse v1.5 GitHub Pages source
+Date: 2026-08-29
+
+CONTENT
+-------
+• Norwegian home, support, privacy policy and privacy choices pages
+• English home, support, privacy policy and privacy choices pages
+• Spanish home, support, privacy policy and privacy choices pages
+• Responsive RoomPulse visual design
+• App icon, favicons and web app manifest
+• Custom 404 page and .nojekyll marker
+• Norwegian publishing guide and App Store Connect URL plan
+
+CHECKS COMPLETED
+----------------
+• 13 of 13 HTML pages parsed successfully with strict error recovery disabled
+• Required title, description, charset, viewport, main and h1 elements checked
+• Duplicate HTML IDs checked
+• All internal page, stylesheet, script and image links checked
+• All same-page anchor targets checked
+• Exact filename case checked for GitHub/Linux hosting
+• CSS asset URLs and web-manifest icons checked
+• JavaScript syntax checked with Node.js
+• Web manifest checked as valid JSON
+• PNG and WebP assets opened and dimensions verified
+• Norwegian, English and Spanish page structures checked for parity
+• No external advertising, analytics, tracking or font scripts included
+• Relative links used so the site works from a GitHub project repository
+
+APP FACTS VERIFIED
+------------------
+• Version 1.5 uses one shared iPhone or iPad for 3–12 players
+• 10 decks and 150 prompts: 3 free/45 prompts and 7 premium/105 prompts
+• Free game: one Room Reader turn per player
+• Full Game: two or three turns per player plus the local custom deck
+• Safe unfinished-game checkpoint expires after at most seven days
+• Secret predictions and votes are not stored in the checkpoint
+• Checkpoint is excluded from device backups
+• Custom cards may be included in Apple-managed backup or device transfer
+• Purchase entitlement is checked through StoreKit and is not described as a local cache
+• No Game Center, Nearby, Multipeer, external game server, ads or analytics
+• No audio implementation; the app exposes a haptics setting
+
+CONFIRMED OWNER INPUT
+---------------------
+The following public values in assets/site-config.js were confirmed for RoomPulse:
+
+• developerName: Lars Ask
+• supportEmail: lars.ask@outlook.com
+• appStoreUrl remains empty until Apple publishes the app
+
+Static no-JavaScript fallbacks do not expose a dummy email address.
+
+PUBLICATION STATUS
+------------------
+The source package is technically valid, the v1.5 factual corrections are
+complete, and public publication was explicitly approved. GitHub Pages live-URL
+verification is performed as the final deployment step.
