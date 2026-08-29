@@ -1,0 +1,44 @@
+PLANLAGT OFFENTLIG REPOSITORY: lars12345678911/roompulse-site
+BRUK LENKENE FØRST ETTER AT GITHUB PAGES ER PUBLISERT OG VERIFISERT
+
+NORSK
+------
+Marketing URL:
+https://lars12345678911.github.io/roompulse-site/
+
+Support URL:
+https://lars12345678911.github.io/roompulse-site/support.html
+
+Privacy Policy URL:
+https://lars12345678911.github.io/roompulse-site/privacy.html
+
+User Privacy Choices URL (valgfri):
+https://lars12345678911.github.io/roompulse-site/privacy-choices.html
+
+ENGLISH
+-------
+Marketing URL:
+https://lars12345678911.github.io/roompulse-site/en/
+
+Support URL:
+https://lars12345678911.github.io/roompulse-site/en/support.html
+
+Privacy Policy URL:
+https://lars12345678911.github.io/roompulse-site/en/privacy.html
+
+User Privacy Choices URL (optional):
+https://lars12345678911.github.io/roompulse-site/en/privacy-choices.html
+
+ESPAÑOL
+-------
+Marketing URL:
+https://lars12345678911.github.io/roompulse-site/es/
+
+Support URL:
+https://lars12345678911.github.io/roompulse-site/es/support.html
+
+Privacy Policy URL:
+https://lars12345678911.github.io/roompulse-site/es/privacy.html
+
+User Privacy Choices URL (opcional):
+https://lars12345678911.github.io/roompulse-site/es/privacy-choices.html
